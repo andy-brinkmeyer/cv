@@ -96,7 +96,7 @@
       #let end = utils.strpdate("2022-12-31")
       #text(style: "italic")[Software Engineer] #h(1fr) #utils.daterange(start, end)
 
-      Worked on a mission system for commanding semi-autonomous UAVs using high-level directives from manned fighter jets.
+      Worked on a mission system for commanding semi-autonomous UAVs from manned fighter jets.
 
       - Implemented a flightpath-planning algorithm for reconnaissance of enemy air defense utilizing multiple UAVs at the same time to improve speed and accuracy, was successfully flight tested *#emph("(Ada)")*
       - Developed tooling for re-simulation of the mission computer that significantly decreased time for reproducing bugs observed during flight tests and HIL testing *#emph("(C++)")*
