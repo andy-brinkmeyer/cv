@@ -79,7 +79,7 @@
       Working on a novel master control system for fleets of autonomous mobile robots, fully written in *#emph("Rust")*. I built the first prototype and developed it with my team into a robust production system in just over a year, that already runs at customers.
 
       - Developed graph-based algorithms for preventing deadlocks between vehicles in large fleets *#text(style: "italic")[(Rust)]*
-      - Designed and implemented our scalable Kubernets-based simulation system, capable of simulating hundreds of fleets at the same time, used extensively by project engineers to evaluate opportunities and fine-tune layouts for project commissioning *#text(style: "italic")[(Rust)]*
+      - Designed and implemented our scalable Kubernetes-based simulation system, capable of simulating hundreds of fleets at the same time, used extensively by project engineers to evaluate opportunities and fine-tune layouts for project commissioning *#text(style: "italic")[(Rust)]*
       - Implemented a deterministic re-simulation approach that allows developers to investigate issues reported by customers much quicker than using conventional methods, presented at *#emph(text(blue)[#link("https://youtu.be/ao-CLgci-e8?si=C2SUibtwsYeThRAl")[Oxidize Conf 2024]])*
       - Developed our internal integration test framework that allows setting up and testing complex scenarios using simulated robots using just high-level directives, acting as a cornerstone of our testing and regression strategy *#emph("(Rust)")*
       - Designed and built a platform for collecting diagnostic data from deployed robot fleets, enabling first-level support to identify common issues without requiring support from domain-experts *#text(style: "italic")[(Rust, MongoDB, MinIO)]*
