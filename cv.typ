@@ -99,7 +99,7 @@
       Worked on a mission system for commanding semi-autonomous UAVs from manned fighter jets.
 
       - Implemented a flightpath-planning algorithm for reconnaissance of enemy air defense utilizing multiple UAVs at the same time to improve speed and accuracy, was successfully flight tested *#emph("(Ada)")*
-      - Developed tooling for re-simulation of the mission computer that significantly decreased time for reproducing bugs observed during flight tests and HIL testing *#emph("(C++)")*
+      - Developed tooling for re-simulation of the mission computer, significantly decreased time for reproducing bugs observed during flight tests and HIL testing *#emph("(C++)")*
       - Built a tool for analyzing recordings of mission computers network traffic *#emph("(Python)")*
     ]
   ]
@@ -172,7 +172,7 @@
     - C++ (Worked a lot with it)
     - Python (Use it a lot for scripting)
     - Ada (Worked with it, can read and write with use of documentation)
-    - JavaScript/TypeScript (Implemented some small web application with it)
+    - JavaScript/TypeScript (Implemented some small web applications with it)
   - *Other Technologies (non-exhaustive)*
     - Kubernetes, Helm, FluxCD (Actively working with it on application level)
     - Docker (Actively using on a daily basis for building and using containerized applications)
